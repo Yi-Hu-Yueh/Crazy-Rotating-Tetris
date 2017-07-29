@@ -7,7 +7,7 @@ This is my first program, written at 2007. </br>
   &nbsp;&nbsp; Down arrow key: put brick down. </br>
   &nbsp;&nbsp; </br>
   &nbsp;&nbsp; Video: </br> 
-  &nbsp;&nbsp; https://www.youtube.com/watch?v=1RaZxnTb2ns
+  &nbsp;&nbsp; https://www.youtube.com/watch?v=1RaZxnTb2ns </br> </br> 
   ![deploy](./Game%20screen%20shot.png)
 
   
