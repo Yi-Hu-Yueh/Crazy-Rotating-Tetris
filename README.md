@@ -9,7 +9,7 @@ This is my first program, written 10 years ago. </br>
   &nbsp;&nbsp; Video: </br> 
   &nbsp;&nbsp; https://www.youtube.com/watch?v=1RaZxnTb2ns
   
-  !(https://github.com/Yi-Hu-Yueh/Crazy-Rotating-Tetris-Java-Desktop-game-/blob/master/Game%20screen%20shot.png)
+  !(https://github.com/Yi-Hu-Yueh/Crazy-Rotating-Tetris-Java-Desktop-game-/raw/master/Game%20screen%20shot.png)
   
   
   
