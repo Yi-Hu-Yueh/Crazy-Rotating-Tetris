@@ -1,4 +1,4 @@
-# Crazy-Rotating-Tetris
+# Crazy-Rotating-Tetris Java Desktop Game
 This is my first program, written 10 years ago. </br>
 
   &nbsp;&nbsp; Left arrow key: move brick left. </br>
