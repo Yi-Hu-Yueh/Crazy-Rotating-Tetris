@@ -8,8 +8,8 @@ This is my first program, written at 2007. </br>
   &nbsp;&nbsp; </br>
   &nbsp;&nbsp; Video: </br> 
   &nbsp;&nbsp; https://www.youtube.com/watch?v=1RaZxnTb2ns
-  
-  !(https://github.com/Yi-Hu-Yueh/Crazy-Rotating-Tetris-Java-Desktop-game/raw/master/Game%20screen%20shot.png)
+  ![deploy](./Game%20screen%20shot.png)
+
   
   
   
