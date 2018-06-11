@@ -1,5 +1,5 @@
 # Crazy-Rotating-Tetris Java Desktop Game
-This is my first program, written at 2007. </br>
+This is my first program, coded in 2007. </br>
 
   &nbsp;&nbsp; Left arrow key:   move brick left. </br>
   &nbsp;&nbsp; Right arrow key:  move brick right. </br>
